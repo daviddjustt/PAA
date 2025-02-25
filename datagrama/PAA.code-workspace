@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "PAA",
+			"path": "../PAA"
+		},
+		{
+			"name": "datagrama",
+			"path": "."
+		},
+		{
+			"path": "../porto"
+		}
+	],
+	"settings": {}
+}
